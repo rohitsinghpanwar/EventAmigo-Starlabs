@@ -4,7 +4,9 @@ EventAmigo is a simple event listing and management application built with **Rea
 You can view local events, filter them by type, location, or date, and create new events easily.
 
 ---
+## 🚀 Live Demo
 
+🔗 **Live Link:** [https://grand-sfogliatella-1d81a2.netlify.app/](https://grand-sfogliatella-1d81a2.netlify.app/)
 ## 🚀 Features
 - 🔍 Search and filter events by title, type, location, and date
 - 🗓️ Restrict users to choose only **future dates**
