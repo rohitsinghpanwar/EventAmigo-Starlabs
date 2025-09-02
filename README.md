@@ -20,7 +20,6 @@ You can view local events, filter them by type, location, or date, and create ne
 1. **Clone this repository**  
 ```bash
 git clone https://github.com/your-username/eventamigo.git
-cd starlabs
 ```
 2. **Install Dependencies**
 ```bash
